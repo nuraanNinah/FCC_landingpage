@@ -12,6 +12,7 @@ body {
 p {
   text-align: center;
   font-size: 20px;
+  
 }
 
  h1{
@@ -28,6 +29,8 @@ h3 {
   
   margin: 20px ;
   font-weight: 400;
+  font-family: 'Great Vibes', cursive;
+
 }
 
 ul {
@@ -195,3 +198,4 @@ footer {
     width: 300;
     height: 220;
   }
+}
